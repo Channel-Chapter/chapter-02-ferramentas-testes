@@ -1,2 +1,2 @@
-# chapter-02-ferramentas-testes
-Ferramentas para utilizar em nossos testes
+# Zup-Chapter 02 - Ferramentas para testes (Parte 01)
+Neste  Chapter foram apresentandos alguns frameworks e algumas ferramentas de teste.
